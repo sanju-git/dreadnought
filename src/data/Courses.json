@@ -1,0 +1,42 @@
+[
+  {
+    "id": "C00001",
+    "name": "Introduction to startup journey",
+    "mentor": "Kunal Shah",
+    "rating": "4.5/5",
+    "progress": "30",
+    "chapters": ["1", "2", "3", "4"]
+  },
+  {
+    "id": "C00002",
+    "name": "Building right product",
+    "mentor": "Ritesh Agarwal",
+    "rating": "4.3/5",
+    "progress": "20",
+    "chapters": ["1", "2", "3"]
+  },
+  {
+    "id": "C00003",
+    "name": "Fitting in to the market",
+    "mentor": "Vijay Shekar Sharma",
+    "rating": "4.4/5",
+    "progress": "36",
+    "chapters": ["1", "2"]
+  },
+  {
+    "id": "C00004",
+    "name": "Organizing a company",
+    "mentor": "Ratan Tata",
+    "rating": "4.8/5",
+    "progress": "72",
+    "chapters": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "C00005",
+    "name": "Idea to execution",
+    "mentor": "Mark Zuckerberg",
+    "rating": "4.7/5",
+    "progress": "90",
+    "chapters": ["1", "2", "3", "4", "5"]
+  }
+]
